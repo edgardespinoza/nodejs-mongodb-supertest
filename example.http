@@ -1,7 +1,9 @@
 GET http://localhost:3001/api
 
 ###
+GET http://localhost:3001/blocking
 
+###
 POST http://localhost:3001/api 
 content-type: application/json
 
